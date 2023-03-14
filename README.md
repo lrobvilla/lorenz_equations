@@ -7,6 +7,6 @@ This is an implementation and optimization of the code presented by the user Hev
 
 The differences between this code and the one that served as inspiration are basicaly two:
 1. I'm plotting several solutions with different initial conditions to explicitly show the sensitivity to initial conditions of this chaotic system.
-2. I'm plotting every "trajectory" only once and then updating the code in every step instead of plotting in every step. The tests made show that this way represents a consirable gain in the speed of the animation.
+2. I'm plotting every "trajectory" only once and then updating the code in every step instead of plotting in every step. The tests made show that this way represents a considerable gain in the speed of the animation.
 
 An explanation of the basic theory concerning this system of diffential equations can be found in the pdf file.
