@@ -8,6 +8,6 @@ This is an implementation and optimization of the code presented by the user Hev
 The differences between this code and the one that served as inspiration are basically three:
 1. The use of the scipy.odeint function to solve numerically the differential equations instead of a RK4 method.
 2. Several solutions are plotted with different initial conditions to explicitly show the sensitivity to initial conditions of the chaotic system.
-3. Every "trajectory" is plotted only once and then the data is updated in every step instead of plotting from scratch in every step. The tests made show that this represents a considerable gain in the speed of the animation.
+3. Every "trajectory" is plotted only once and then the data is updated in every step instead of plotting from scratch in every step. The tests made show that this approach represents a considerable gain in the speed of the animation.
 
 An explanation of the basic theory concerning this system of diffential equations can be found in the pdf file.
