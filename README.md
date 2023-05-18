@@ -1,5 +1,5 @@
 
-## Lorenz system of differential equations
+## Animation of the solutions of the Lorenz system of differential equations
 
 ![lorenz_equation](https://user-images.githubusercontent.com/30398083/224520920-75dc68df-0305-4538-b344-e6450cf83683.gif)
 
